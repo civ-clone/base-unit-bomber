@@ -1,3 +1,3 @@
-import { Fortifiable } from '@civ-clone/base-unit-type-fortifiable/Fortifiable';
-export declare class Bomber extends Fortifiable {}
+import Air from '@civ-clone/base-unit-type-air/Air';
+export declare class Bomber extends Air {}
 export default Bomber;
